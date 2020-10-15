@@ -1,6 +1,7 @@
 ########################################
 
 import datetime
+from datetime import timedelta
 
 name=input('Enter name of person :')
 age=input('Enter current age :')
